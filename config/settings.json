@@ -1,0 +1,11 @@
+{
+  "project_name": "Cohesive Cloud Validation & Technical Truth",
+  "version": "1.0.0",
+  "paths": {
+    "vault_dir": "data/vault/",
+    "report_name": "resilience_report.html",
+    "identity_log": "identity_truth_vault.json"
+  },
+  "partnership_mode": "Strict",
+  "contact_policy": "Direct Phone Verification Only"
+}
