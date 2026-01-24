@@ -1,0 +1,9 @@
+[RECORD_ID: 001] | [TIMESTAMP: 2023-10-27T10:00Z]
+[CONTENT]: S-a stabilit respectul reciproc la Masa Comună.
+[HASH_PREV]: 0000000000000000
+[SIGNATURE]: 8f92b3c4... (Garantează că această vorbă nu poate fi ștearsă)
+--------------------------------------------------------------
+[RECORD_ID: 002] | [TIMESTAMP: 2023-10-27T10:05Z]
+[CONTENT]: Schimb de numere agreat în privat.
+[HASH_PREV]: 8f92b3c4... (Leagă această decizie de prima, formând o istorie neschimbată)
+[SIGNATURE]: a1b2c3d4...
