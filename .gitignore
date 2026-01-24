@@ -1,0 +1,23 @@
+# --- Cohesive Framework Security ---
+# Excludem datele brute de validare pentru a proteja Adevărul Tehnic
+data/vault/*.json
+data/vault/*.log
+
+# --- Python Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# --- Cloud & Local Credentials ---
+# Prevenim urcarea accidentală a cheilor (dacă apar fișiere de mediu)
+.env
+.azure/
+.aws/
+auth_tokens.txt
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
