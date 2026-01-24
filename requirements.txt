@@ -1,0 +1,11 @@
+# Core Framework Dependencies
+logging
+datetime
+
+# Cloud Integration (Pentru viitoarele conexiuni SDK)
+azure-identity
+azure-mgmt-resource
+
+# Reporting & Shifting
+jinja2
+
