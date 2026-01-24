@@ -1,0 +1,4 @@
+# HELP validation_success Indicator succes validare integritate
+# TYPE validation_success gauge
+validation_success 1
+
